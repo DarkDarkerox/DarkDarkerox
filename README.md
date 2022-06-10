@@ -20,7 +20,7 @@ I'm a final year B.S in Physics & Mathematics student from <a href="https://www.
 
 
 
-- 💻 &nbsp; Python: Pandas, NumPy, SciPy | C | SQL | GIT
+- 💻 &nbsp; Python: Pandas, NumPy, SciPy | C | SQL | Spark - PySaprk | GIT
 
 - 🌐 &nbsp; HTML 
 
