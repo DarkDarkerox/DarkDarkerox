@@ -20,14 +20,14 @@ I'm a final year B.S in Physics & Mathematics student from <a href="https://www.
 
 
 
-- 💻 &nbsp; Python: Pandas, NumPy, SciPy | C | SQL | Spark - PySaprk | GIT
+- 💻 &nbsp; Python: Pandas, NumPy, SciPy | C | SQL | Spark - PySaprk | GIT 
 
-- 🌐 &nbsp; HTML 
+- 🌐 &nbsp; SQL: MySQL, No-SQL: MongoDB  
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; TensorFlow | Keras | Tableu | 
+- 🔧 &nbsp; TensorFlow  | Power BI | 
 - 💻 &nbsp; Java | Go
 
 <hr>
