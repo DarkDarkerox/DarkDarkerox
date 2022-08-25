@@ -4,7 +4,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-I'm a final year B.S in Physics & Mathematics student from <a href="https://www.esfm.ipn.mx/"> ESFM </a> at Mexico.
+B.S in Physics & Mathematics student from <a href="https://www.esfm.ipn.mx/"> ESFM </a> at Mexico.
 
 - 🤔 &nbsp; Exploring new technologies.
 
@@ -36,13 +36,21 @@ I'm a final year B.S in Physics & Mathematics student from <a href="https://www.
 
 <p align="center">
 
-<a href="http://imariosl98.herokuapp.com/"><img alt="Website" src="http://dry-atoll-94091.herokuapp.com/"></a>
+<a href="http://imariosl98.herokuapp.com/"> 
+  <img alt="Website" src="http://dry-atoll-94091.herokuapp.com/"> 
+</a>
 
-<a href="https://www.linkedin.com/in/mario-asl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mario%20asl-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mario-asl/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mario%20asl-blue?style=flat-square&logo=linkedin">
+</a>
 
-<a href="https://www.instagram.com/mariokck/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mariokck-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/mariokck/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-mariokck-black?style=flat-square&logo=instagram">
+</a>
 
-<a href="mailto:ma.sanchez.lr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ma.sanchez.lr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ma.sanchez.lr@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-ma.sanchez.lr@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
 
 </p>
 
