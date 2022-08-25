@@ -36,7 +36,7 @@ I'm a final year B.S in Physics & Mathematics student from <a href="https://www.
 
 <p align="center">
 
-<a href="http://dry-atoll-94091.herokuapp.com/"><img alt="Website" src="http://dry-atoll-94091.herokuapp.com/"></a>
+<a href="http://imariosl98.herokuapp.com/"><img alt="Website" src="http://dry-atoll-94091.herokuapp.com/"></a>
 
 <a href="https://www.linkedin.com/in/mario-asl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mario%20asl-blue?style=flat-square&logo=linkedin"></a>
 
